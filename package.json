@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
+    "@tiptap/extension-heading": "^3.10.1",
+    "@tiptap/react": "^3.10.1",
+    "@tiptap/starter-kit": "^3.10.1",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.552.0",
     "react": "^19.1.1",
